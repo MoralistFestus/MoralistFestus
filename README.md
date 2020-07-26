@@ -2,8 +2,8 @@
 Title: Moralist Festus 
 Date: '2019-07-14'
 Spoiler: Creativity Readme Template
-Categories: ["creativity", "all-profile"]
-githubUsername: 'MoralistFestus'
+Categories: ["ScriptCoder 💻 ", "Coffee ☕"]
+GithubUsername: 'MoralistFestus'
 ---
 
 <p align="center"> <h1 align="center"> Moralist Festus </h1> </p>
@@ -24,7 +24,7 @@ githubUsername: 'MoralistFestus'
 Check out my repos ⬇️  
 </p>
 
-![My Projects](https://github.com/MoralistFestus)
+[My Projects](https://github.com/MoralistFestus)
 
 
 More useful information about me:
@@ -33,7 +33,7 @@ More useful information about me:
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to collaborate on open source projects...
 - 🤔 I’m looking for help for a team.
-- 📫 How to reach me: ![@moralistfestus](https://twitter.com/MoralistFestus)
+- 📫 How to reach me: [@moralistfestus](https://twitter.com/MoralistFestus)
 - 😄 Language: Yoruba, English, Hindi (learner).
 - ⚡ Fun fact: Never to give up...
 
