@@ -1,6 +1,6 @@
 # Hi, I'm Moralist Festus  💻
 
-<img src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/gh-header-image-1.png" alt="I am Moralist Festus, I code, I write, I contribute, I help, I develop and I solve problems with programming skills">
+<img src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/gh-header-image.png" alt="I am Moralist Festus, I code, I write, I contribute, I help, I develop and I solve problems with programming skills">
 I am Moralist Festus, Exploring Full stack web dev and Data analyst. I am passionate about making tools to solve real world problems, I love contributing to open source projects, learning new things and meeting new people and Tech writing 📝. I am currently building a company where devs around the world can meet to collaborate. 
 <p align="center">Connect with Me ⬇</p>
 
