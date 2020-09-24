@@ -9,8 +9,8 @@ I am Moralist Festus, Exploring Full stack web dev and Data analyst. I am passio
 <a href= "https://twitter.com/MoralistFestus"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-
-
+![Moralist Festus's stats](https://github-readme-stats.vercel.app/api?username=MoralistFestus&show_icons=true&theme=radical)
+<br>
 More useful information about me:
 
 - 🔭 I’m currently building a modules written in Python.
