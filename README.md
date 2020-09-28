@@ -23,7 +23,7 @@ I am Moralist Festus, Love learning and Exploring new technologies. I am A Techn
 
 More useful information about me:
 
-- 🔭 I’m currently learn new technologies.
+- 🔭 I’m currently learning new technologies.
 - 🌱 I’m currently learning Python. 
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking to get a team.
