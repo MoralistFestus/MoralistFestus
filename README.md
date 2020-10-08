@@ -1,6 +1,6 @@
 # Hi, I'm Moralist Festus  💻
 
-<img src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/gh-header-image.png" alt="I am Moralist Festus, I code, I write, I contribute, I help, I develop and I solve problems with programming skills">
+<img src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/20201008_123455.png" alt="I am Moralist Festus, I code, I write, I contribute, I help, I develop and I solve problems with programming skills">
 
 <p align="center">Connect with Me ⬇</p>
 
