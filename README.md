@@ -1,7 +1,7 @@
 # Hi, I'm Moralist Festus  💻
 
 <img src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/gh-header-image.png" alt="I am Moralist Festus, I code, I write, I contribute, I help, I develop and I solve problems with programming skills">
-I am Moralist Festus, Love learning and Exploring new technologies. I am A Technical Writer at Hashnode and Dev.to community. Author of Learn Dragon Programming Language. Moreover I am an Open source Contributor. 
+
 <p align="center">Connect with Me ⬇</p>
 
 <p align="center">
@@ -20,15 +20,3 @@ I am Moralist Festus, Love learning and Exploring new technologies. I am A Techn
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoralistFestus&layout=compact" />
 </div>
 <br>
-
-More useful information about me:
-
-- 🔭 I’m currently learning new technologies.
-- 🌱 I’m currently learning Python. 
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking to get a team.
-- 📫 How to reach me: [@moralistfestus](https://twitter.com/MoralistFestus)
-- 😄 Language: Yoruba, English, Hindi (learner).
-- ⚡ Fun fact: Detective Journalism 
-
-`Website` - [programmerfestus.hashnode.dev](https://programmerfestus.hashnode.dev)
