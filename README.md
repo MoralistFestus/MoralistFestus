@@ -1,7 +1,7 @@
 # Hi, I'm Moralist Festus  💻
 
 <img src="https://raw.githubusercontent.com/MoralistFestus/MoralistFestus/master/20201008_123455.png" alt="I am Moralist Festus, I code, I write, I contribute, I help, I develop and I solve problems with programming skills">
-HI, I am Moralist Festus a JavaScript based web developer. Technical writer 📝 at Dev.to and Hashnode, Open source lover ♥. My stacks are writing full functional web apps of the internet. I sometimes code python for web scrapping and networking.
+HI, I am Moralist Festus a JavaScript based web developer. Technical writer 📝 at Dev.to and Hashnode, Open source lover ♥. My stacks are writing full functional web apps of the internet. I sometimes code python for web scrapping and networking. Currently building a project that aids faster development, and to improve the user experience on the internet. #moralistfestus, #scriptcoder. 
 
 <p align="center">Connect with Me ⬇</p>
 
